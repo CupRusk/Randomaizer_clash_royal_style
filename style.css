@@ -9,7 +9,7 @@
 body {
     font-family: 'Special Elite', cursive; /* Уточнён шрифт */
     font-size: 23px;
-    background: url("/img/1124066.jpg") center/cover no-repeat fixed;
+    background: url("1124066.jpg") center/cover no-repeat fixed;
     /* Объединены background-свойства */
     color: #D3D3D3;
     min-height: 100vh; /* Чтобы body занимал минимум всю высоту экрана */
